@@ -14,3 +14,6 @@
 - [Testing Callbacks with Mockito](https://www.baeldung.com/mockito-callbacks)
 - [Mockito – Using Spies](https://www.baeldung.com/mockito-spy)
 - [Quick Guide to BDDMockito](https://www.baeldung.com/bdd-mockito)
+
+### Javadoc
+- [Mockito](https://javadoc.io/static/org.mockito/mockito-core/3.3.3/org/mockito/Mockito.html)
